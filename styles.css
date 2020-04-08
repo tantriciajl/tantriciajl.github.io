@@ -1,0 +1,160 @@
+body {
+  background-color: white;
+  font-family: Tahoma;
+  margin: 0 0 0 0;
+  text-align: center;
+  font-weight: lighter;
+}
+
+h1 {
+  color: grey;
+  font-weight: 200;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: 100;
+}
+
+.caption {
+  color: DimGray;
+}
+
+.elementtable {
+  border-collapse: collapse;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+thead {
+  color: white;
+  font-family: Arial;
+  font-weight: 100;
+  background-color: CadetBlue;
+}
+
+ th, td {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+  }
+
+.example h4 {
+  font-size: 22px;
+  font-weight: lighter;
+  padding-top: 18px;
+  padding-left: 3%;
+}
+
+p, table {
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.attributetable {
+  border-collapse: collapse;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.code {
+  color: black;
+  font-family: Monospace;
+  background-color: gainsboro;
+}
+
+.ghostwhite {
+  background-color: GhostWhite;
+}
+
+.example {
+  background-color: WhiteSmoke;
+  text-align: left;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.exampleinfo {
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.examplecode {
+  font-family: Monospace;
+  background-color: white;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-left-color: teal;
+  border-left-width:  7px;
+  padding-left: 3%;
+  text-align: left;
+  line-height: 3pt;
+  margin-left: 6%;
+  margin-right: 6%;
+}
+
+.examplecode p {
+  color: brown;
+  font-size: 14px;
+  }
+
+.text {
+  color: black;
+}
+
+.lgt {
+  color: darkblue;
+}
+
+.doctype {
+  color: DimGrey !important;
+}
+
+.attribute {
+  color: red;
+}
+
+.example th, .example td {
+  border: 1px solid Grey;
+}
+
+.example h5 {
+  font-size: 22px;
+  text-align: center;
+  line-height: 0px;
+  font-weight: 100;
+}
+
+.exampletable table {
+  border-collapse: collapse;
+  text-align: center;
+  margin-left: auto;
+	margin-right: auto;
+  float: none;
+}
+
+footer {
+  color: whitesmoke;
+  background-image: linear-gradient(Gray,DimGray);
+  height: 90px;
+}
+
+footer p {
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 1pt;
+  padding: 16px 0 8px 1%;
+  margin: 3px;
+}
+
+footer a {
+  color: whitesmoke;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#projectname {
+  font-style: italic;
+}
